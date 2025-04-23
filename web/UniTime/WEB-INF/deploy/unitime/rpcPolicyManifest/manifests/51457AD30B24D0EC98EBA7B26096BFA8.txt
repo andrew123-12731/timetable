@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.CurriculaService
+path: 134A35614058195460114AE0C1FFDEE0.gwt.rpc

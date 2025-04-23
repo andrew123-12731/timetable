@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.SectioningService
+path: 7A3B9C452DFC2E46ACAEF14E501EFB26.gwt.rpc

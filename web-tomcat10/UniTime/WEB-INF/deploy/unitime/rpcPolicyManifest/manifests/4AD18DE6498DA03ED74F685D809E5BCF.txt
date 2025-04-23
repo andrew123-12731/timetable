@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.ReservationService
+path: A2ECD8F2155E7E71372B157C7EB36197.gwt.rpc

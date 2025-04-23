@@ -1,0 +1,2 @@
+serviceClass: org.unitime.timetable.gwt.services.LimitAndProjectionSnapshotService
+path: BD9B2B2172DD672B1D5D93BEB2E1ED1A.gwt.rpc
