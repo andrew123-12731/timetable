@@ -1,2 +1,2 @@
 # timetable
-about school timetable management
+Unitime School Management
